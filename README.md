@@ -2,7 +2,7 @@
 
 Technical report evaluating whether a paediatric hospital group should adopt an AI-driven scheduling and operations system. 5-person group project, CSC1036 Professional Practice for Computing, DCU (2026).
 
-📄 [Read the full report (PDF)](report.pdf)
+[Read the full report (PDF)](report.pdf)
 
 ## Overview
 Working as a consulting team, we analysed the hospital group's operational problems (fragmented systems, long wait times, underused theatres), evaluated an AI scheduling solution, assessed its feasibility and risks, and designed an 18-month phased rollout.
